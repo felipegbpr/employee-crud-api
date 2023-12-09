@@ -1,5 +1,5 @@
 /**
- * arquivo: databse.js
+ * arquivo: config/databse.js
  * descrição: arquivo responsável pelas 'connectionStrings' (Cosmos DB & PostgreSQL)
  * data: 09/12/2023
  * author: Felipe Gomes <@felipe_borrges>
