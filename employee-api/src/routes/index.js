@@ -1,5 +1,5 @@
 /**
- * arquivo: app.js
+ * arquivo: index.js
  * descrição: arquivo responsável pela chamada da API na aplicação no lado do Back-End
  * data: 09/12/2023
  * author: Felipe Gomes <@felipe_borrges>
